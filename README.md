@@ -30,3 +30,7 @@
 10. Tambahkan remote repository server dengan gunakan perintah git remote add origin [url] dan untuk mengirim perubahan pada lokal repository ke server gunakan perintah git push.
 
 ![Screenshot 2022-10-14 103206](https://user-images.githubusercontent.com/115763475/195756215-1bcf7dc3-452b-4c79-bad9-03ca5a868bc9.jpg)
+
+11. Buka halaman github.com, maka perubahan akan terlihat pada halaman tersebut
+
+![Screenshot 2022-10-14 1000737](https://user-images.githubusercontent.com/115763475/195756946-bed66524-0bed-431e-a8a0-9cd39c26d7b4.jpg)
