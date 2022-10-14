@@ -1,4 +1,4 @@
-# LatihanVCS
+# Latihan VCS
 
 Nama: Aan Fadillah Putra
 
@@ -40,3 +40,7 @@ Kelas: TI.22.A3
 11. Buka halaman github.com, maka perubahan akan terlihat pada halaman tersebut.
 
 ![Screenshot 2022-10-14 1000737](https://user-images.githubusercontent.com/115763475/195756946-bed66524-0bed-431e-a8a0-9cd39c26d7b4.jpg)
+
+===========SELESAI===========
+
+======SEKIAN TERIMAKASIH=====
