@@ -1,7 +1,9 @@
-# Latihan
+# LatihanVCS
 
 Nama: Aan Fadillah Putra
+
 NIM: 312210327
+
 Kelas: TI.22.A3
 
 1. Download dan install Git.
